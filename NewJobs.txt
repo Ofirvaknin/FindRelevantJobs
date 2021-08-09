@@ -1,0 +1,41 @@
+Elbit systems:
+
+משרת סטודנט - מהנדס תוכנה לתחום מפות ואפליקציות GIS
+JB-70049314
+Intel:
+
+Software Developer and Data Analysis Student
+JR0178680
+https://jobs.intel.com/ShowJob/Id/3004552/Software-Developer-and-Data-Analysis-Student/
+
+Student for Software Pre-Silicon Validation
+JR0179486
+https://jobs.intel.com/ShowJob/Id/3013982/Student-for-Software-Pre-Silicon-Validation/
+
+AI Data Scientist Student for Advanced Analytics
+JR0178683
+https://jobs.intel.com/ShowJob/Id/3004553/AI-Data-Scientist-Student-for-Advanced-Analytics/
+
+Firmware development student
+JR0170394
+https://jobs.intel.com/ShowJob/Id/2912649/Firmware-development-student/
+
+Information System Development student
+JR0177102
+https://jobs.intel.com/ShowJob/Id/2988326/Information-System-Development-student/
+
+AI Data Scientist student for Advanced Analytics
+JR0171019
+https://jobs.intel.com/ShowJob/Id/2919671/AI-Data-Scientist-student-for-Advanced-Analytics/
+
+Imaging Algorithms Student
+JR0169874
+https://jobs.intel.com/ShowJob/Id/2906953/Imaging-Algorithms-Student/
+
+Software Development student for Advanced Analytics
+JR0170293
+https://jobs.intel.com/ShowJob/Id/2912158/Software-Development-student-for-Advanced-Analytics/
+
+Software Development Student for Advanced Analytics
+JR0163004
+https://jobs.intel.com/ShowJob/Id/2837571/Software-Development-Student-for-Advanced-Analytics/
