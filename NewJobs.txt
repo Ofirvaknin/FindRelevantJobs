@@ -1,41 +1,57 @@
 Elbit systems:
 
-משרת סטודנט - מהנדס תוכנה לתחום מפות ואפליקציות GIS
-JB-70049314
+סטודנט לפיתוח תוכנה
+JB-70063627
 Intel:
 
-Software Developer and Data Analysis Student
-JR0178680
-https://jobs.intel.com/ShowJob/Id/3004552/Software-Developer-and-Data-Analysis-Student/
+Post Silicon Debug Tools Development and Enabling student
+JR0164249
+https://jobs.intel.com/ShowJob/Id/2854004/Post-Silicon-Debug-Tools-Development-and-Enabling-student/
 
-Student for Software Pre-Silicon Validation
-JR0179486
-https://jobs.intel.com/ShowJob/Id/3013982/Student-for-Software-Pre-Silicon-Validation/
+IPG Operations Data Analyst Intern/Student
+JR0190978
+https://jobs.intel.com/ShowJob/Id/3141195/IPG-Operations-Data-Analyst-Intern-Student/
 
 AI Data Scientist Student for Advanced Analytics
 JR0178683
 https://jobs.intel.com/ShowJob/Id/3004553/AI-Data-Scientist-Student-for-Advanced-Analytics/
 
-Firmware development student
-JR0170394
-https://jobs.intel.com/ShowJob/Id/2912649/Firmware-development-student/
+Software Development student for Advanced Analytics (Mobileye)
+JR0188611
+https://jobs.intel.com/ShowJob/Id/3113377/Software-Development-student-for-Advanced-Analytics-(Mobileye)/
 
-Information System Development student
-JR0177102
-https://jobs.intel.com/ShowJob/Id/2988326/Information-System-Development-student/
+Firmware & BIOS development student
+JR0190253
+https://jobs.intel.com/ShowJob/Id/3132556/Firmware-amp;-BIOS-development-student/
 
-AI Data Scientist student for Advanced Analytics
-JR0171019
-https://jobs.intel.com/ShowJob/Id/2919671/AI-Data-Scientist-student-for-Advanced-Analytics/
+Product development student
+JR0189127
+https://jobs.intel.com/ShowJob/Id/3118029/Product-development-student/
+
+Analog Product Development Engineer Student
+JR0187053
+https://jobs.intel.com/ShowJob/Id/3099005/Analog-Product-Development-Engineer-Student/
+
+SW tools/development student
+JR0185544
+https://jobs.intel.com/ShowJob/Id/3083673/SW-tools-development-student/
+
+Software Development Student
+JR0190058
+https://jobs.intel.com/ShowJob/Id/3131334/Software-Development-Student/
+
+DevOps Student for Intel Core Development
+JR0185687
+https://jobs.intel.com/ShowJob/Id/3086587/DevOps-Student-for-Intel-Core-Development/
 
 Imaging Algorithms Student
 JR0169874
 https://jobs.intel.com/ShowJob/Id/2906953/Imaging-Algorithms-Student/
 
-Software Development student for Advanced Analytics
-JR0170293
-https://jobs.intel.com/ShowJob/Id/2912158/Software-Development-student-for-Advanced-Analytics/
+Product & Test Development Student
+JR0187374
+https://jobs.intel.com/ShowJob/Id/3101426/Product-amp;-Test-Development-Student/
 
-Software Development Student for Advanced Analytics
-JR0163004
-https://jobs.intel.com/ShowJob/Id/2837571/Software-Development-Student-for-Advanced-Analytics/
+Admin Student for Data Center Group
+JR0186771
+https://jobs.intel.com/ShowJob/Id/3095704/Admin-Student-for-Data-Center-Group/
